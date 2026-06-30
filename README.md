@@ -1,8 +1,8 @@
-# >> My-Folders-Codes
+# My-Folders-Codes
 _____________________________________________________________________________________________________________________________
 This repository will serve as a general guide to my projects; it will act like a map to all my repositories, treating them like folders.
 _____________________________________________________________________________________________________________________________
-# >> Rules
+## Rules
 
   *1. >> Everything I post here will have its own main folder and documentation explaining why I created the project and the choices I made to carry out the work.*
 
