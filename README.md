@@ -8,12 +8,12 @@ ________________________________________________________________________________
 
   *2. Since this repository contains my core code, if you have a question about any part, please **do your own research** before asking; I will not answer trivial questions.*
 
-  **3. The languages ​​used in this repository will be C and ASM and Math.**
+  **3. The languages ​​used in this repository will be C and ASM.**
 
 _____________________________________________________________________________________________________________________________
 
 ## Alright, you know the main rules—feel free to explore.
 
-### [C](https://github.com/FoldersCode/-C-)
-### [ASM](https://github.com/FoldersCode/-ASM-)
-### [TRASH](https://github.com/FoldersCode/Trash)
+### My Codes >> [C](https://github.com/FoldersCode/-C-)
+### My Codes >> [ASM](https://github.com/FoldersCode/-ASM-)
+### My >> [TRASH](https://github.com/FoldersCode/Trash)
