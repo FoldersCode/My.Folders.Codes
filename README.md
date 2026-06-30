@@ -1,7 +1,9 @@
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 # My-Folders-Codes
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 This repository will serve as a general guide to my projects; it will act like a map to all my repositories, treating them like folders.
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 ## Rules
 
   **1. Everything I post here will have its own main folder and documentation explaining why I created the project and the choices I made to carry out the work.**
@@ -10,13 +12,18 @@ ________________________________________________________________________________
 
   **3. The languages ​​used in this repository will be C and ASM.**
 
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 
 ## Alright, you know the main rules—feel free to explore.
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ### My Codes [C](https://github.com/FoldersCode/-C-)
+__________________________________________________________________________________________________________________________
+
+![ASM](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ### My Codes [ASM](https://github.com/FoldersCode/-ASM-)
 
-_____________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________
 
 > If you'd like to see the code I write in a casual and messy way, check out my... [TRASH](https://github.com/FoldersCode/Trash)
+
