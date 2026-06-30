@@ -14,6 +14,9 @@ ________________________________________________________________________________
 
 ## Alright, you know the main rules—feel free to explore.
 
-### My Codes >> [C](https://github.com/FoldersCode/-C-)
-### My Codes >> [ASM](https://github.com/FoldersCode/-ASM-)
-### My >> [TRASH](https://github.com/FoldersCode/Trash)
+### My Codes [C](https://github.com/FoldersCode/-C-)
+### My Codes [ASM](https://github.com/FoldersCode/-ASM-)
+
+_____________________________________________________________________________________________________________________________
+
+> If you'd like to see the code I write in a casual and messy way, check out my... [TRASH](https://github.com/FoldersCode/Trash)
