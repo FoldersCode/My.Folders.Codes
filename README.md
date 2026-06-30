@@ -1,6 +1,6 @@
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 # My-Folders-Codes
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 __________________________________________________________________________________________________________________________
 This repository will serve as a general guide to my projects; it will act like a map to all my repositories, treating them like folders.
 __________________________________________________________________________________________________________________________
